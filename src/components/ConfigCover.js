@@ -16,7 +16,7 @@ const defaultSettings = {
 
 class ConfigCover extends React.Component {
   state = defaultSettings;
-  
+
   handleReset = () => {
     this.setState(defaultSettings);
   };
