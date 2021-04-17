@@ -6,7 +6,7 @@ import ChevronDown from "./ChevronDown";
 import RandomTheme from "./RandomTheme";
 
 const defaultSettings = {
-  title: "",
+  title: "The Fastest Way To Replace All Occurrences Of A String In JavaScript",
   bgColor: "#232F3E",
   borderSize: "36",
   pattern: "",
@@ -126,6 +126,14 @@ class ConfigCover extends React.Component {
               <option>pattern10</option>
               <option>pattern11</option>
               <option>pattern12</option>
+              <option>pattern13</option>
+              <option>pattern14</option>
+              <option>pattern15</option>
+              <option>pattern16</option>
+              <option>pattern17</option>
+              <option>pattern18</option>
+              <option>pattern19</option>
+              <option>pattern20</option>
             </select>
           </details>
 
